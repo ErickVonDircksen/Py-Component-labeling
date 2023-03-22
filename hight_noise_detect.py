@@ -8,9 +8,6 @@ import numpy as np
 #===============================================================================
 # Alunos Erick H. Dircksen e André L. Gomes
 
-#entender o conceito,   Check
-#conseguir implementar, not Check
-
 path = '205.bmp'
 
 def noNoise2(img):
